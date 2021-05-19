@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+
+
 👨‍🎓 I'm a student of Methodology and Statistics at Utrecht University.  
 
-🔭 I’m currently working as intern at [ASReview](https://github.com/asreview).  
+:computer: I’m working as an intern [ASReview](https://github.com/asreview).  
 
-📫 Reach me by e-mail at bjboverhof@gmai.com.  
+📫 Reach me by e-mail at bjboverhof@gmail.com.  
 
 :earth_asia: Find my personal website [here](https://bartjanboverhof.github.io).  
 
