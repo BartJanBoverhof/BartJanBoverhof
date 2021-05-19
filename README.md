@@ -4,7 +4,7 @@
 
 👨‍🎓 I'm a student of Methodology and Statistics at Utrecht University.  
 
-:computer: I’m working as an intern [ASReview](https://github.com/asreview).  
+:computer: I’m working as an intern at [ASReview](https://github.com/asreview).  
 
 📫 Reach me by e-mail at bjboverhof@gmail.com.  
 
