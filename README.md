@@ -10,6 +10,6 @@
 
 :earth_asia: Find my [personal website here](https://bartjanboverhof.github.io).  
 
-:open_book:	I'm an avid reader with a preference for Fantasy and History! Find my [Goodreads profile here](https://www.goodreads.com/user/show/90941480-bart-jan).  
+:open_book:	I'm an avid reader with a preference for Fantasy, Philosophy and History! Find my [Goodreads profile here](https://www.goodreads.com/user/show/90941480-bart-jan).  
 
 ---
