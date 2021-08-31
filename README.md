@@ -7,6 +7,6 @@
 
 📫 Reach me by e-mail at bjboverhof@gmail.com.  
 
-:earth_asia: Find my [personal website here](https://bartjanboverhof.github.io).  
+:earth_asia: Find my personal website & CV [here](https://bartjanboverhof.github.io).  
 
 ---
