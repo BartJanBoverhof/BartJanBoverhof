@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!%&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-👨‍🎓 I'm a student of Methodology and Statistics at Utrecht University.  
+👨‍🎓 I'm graduated student of [Methodology and Statistics](https://www.uu.nl/masters/en/methodology-and-statistics-behavioural-biomedical-and-social-sciences) at Utrecht University.  
 
 :computer: I’m working as an intern at [ASReview](https://github.com/asreview).  
 
