@@ -8,4 +8,5 @@
 📫 Reach me by e-mail at bjboverhof@gmail.com.  
 
 :earth_asia: Find my personal website & Resumé [here](https://bartjanboverhof.github.io).  
+
 ---
